@@ -7,8 +7,9 @@
 .floater	   { background: purple;  }
 
 .actor  { position: absolute;  }
-.coin   { background: rgb(220, 180, 75); }
+.coin   { background: rgb(241, 229, 89); }
 .player { background: rgb(80, 80, 80); }
+.trophy { background: rgb(235, 205, 40); }
 
 .game {
   overflow: hidden;
